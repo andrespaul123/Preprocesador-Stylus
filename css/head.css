@@ -1,0 +1,15 @@
+header {
+  width: 720px;
+  margin: auto;
+  background-color: #1cc198;
+  text-align: center;
+}
+header .titulo {
+  color: #fff;
+  font-size: 70px;
+}
+header .parrafo {
+  width: 600px;
+  margin: auto;
+  font-size: 20px;
+}
